@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Suyasha9
+- 👋 Hi, I’m Suyasha
 - 👀 I’m interested in Data Structures and Algos are a love
 - 🌱 I’m currently learning   Web development
 - 💞 I’m looking to collaborate on Web Development 
