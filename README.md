@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Structures and Algos are a love
 - 🌱 I’m currently learning   Web development
 - 💞 I’m looking to collaborate on Web Development 
-- 📫 How to reach me agnihotri96suyasha@gmail.com 
+- 📫 How to reach me  suyasha061@gmail.com
 
 <!---
 Suyasha9/Suyasha9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
